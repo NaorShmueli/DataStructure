@@ -12,4 +12,4 @@ It’s basically a collection of nodes which are connected to its next node by a
  * A property to hold the count of number of nodes in the collection: Length or Count
  * Methods to interact with the data within the collection: add, remove, find etc. We will be implementing few more methods as well. Naming of these methods will defer from language to language. But we will focus on understanding the implementation rather than using a standard naming.
  
-![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/StructuralPatterns/Images/Adapter.JPG?raw=true)
+![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/LinkedList.JPG?raw=true)
