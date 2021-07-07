@@ -74,5 +74,6 @@ namespace Queue.Implementation
                 return First.Value;
             }
         }
+
     }
 }
