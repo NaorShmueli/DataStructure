@@ -267,6 +267,9 @@ namespace LinkedList.Implementation
             }
 
         }
+        /// <summary>
+        /// Reverses the order of the elements in linked list
+        /// </summary>
         public void Reverse()
         {
             //Swap head and tail nodes
