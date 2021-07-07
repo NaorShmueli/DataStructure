@@ -75,5 +75,21 @@ namespace Queue.Implementation
             }
         }
 
+        public string PrintAll()
+        {
+            var current = First;
+            var sb = new StringBuilder();
+            for (var i = 0; i < Size; i++)
+            {
+
+                sb.Append(current.Value);
+                sb.Append(",");
+                current = current.Next;
+
+            }
+            sb = sb.Remove(sb.Length - 1, 1);
+            return sb.ToString();
+        }
+
     }
 }
