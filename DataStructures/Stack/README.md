@@ -24,4 +24,5 @@ What it means is, the last or recent element that we add to stack is the first e
  * Insert/Delete: By the properties of Stack, LIFO; and we implement Stack using a linked list, big O for these operations is always O(1). This is due to the fact that adding/removing an element from the head of the linked list is always takes only 1 operation.
  * Access/Search: To find an element at a specific index or to verify if an element exists in a Stack, we have to loop through all the elements linearly. Because of this, these operations have a big O of O(n).
  
+## Illustration 
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/Stack.JPG?raw=true)

@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{7AFA15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{B2466608-A34D-4F7A-A46C-52A8B4DD755F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{35FE4EEC-DC5C-4449-BBBF-A06E93636326}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{B2466608-A34D-4F7A-A46C-52A8B4DD755F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2466608-A34D-4F7A-A46C-52A8B4DD755F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2466608-A34D-4F7A-A46C-52A8B4DD755F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FE4EEC-DC5C-4449-BBBF-A06E93636326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FE4EEC-DC5C-4449-BBBF-A06E93636326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FE4EEC-DC5C-4449-BBBF-A06E93636326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FE4EEC-DC5C-4449-BBBF-A06E93636326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
