@@ -7,10 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{7AFA159B-002D-4118-9E81-02408A10855C}"
 	ProjectSection(SolutionItems) = preProject
-		Images\ArraySotringAlg.JPG = Images\ArraySotringAlg.JPG
+		Images\ArraySotringAlgo.JPG = Images\ArraySotringAlgo.JPG
 		Images\bigo.JPG = Images\bigo.JPG
 		Images\BinaryTree.JPG = Images\BinaryTree.JPG
-		Images\CommonDataStructureOperations.JPG = Images\CommonDataStructureOperations.JPG
+		Images\CommonOperations.JPG = Images\CommonOperations.JPG
 		Images\directed.JPG = Images\directed.JPG
 		Images\LinkedList.JPG = Images\LinkedList.JPG
 		Images\Queue.JPG = Images\Queue.JPG

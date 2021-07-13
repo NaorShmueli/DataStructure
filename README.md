@@ -13,7 +13,7 @@ Each project contain readme file with explanations.
   * [Graphs](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/Graphs)
 
 ## Common Operations O
-![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/CommonDataStructureOperations.JPG?raw=true)
+![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/CommonOperations.JPG?raw=true)
 
 ## Array Sorting Algorithms O
-![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/ArraySotringAlg.JPG?raw=true)
+![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/ArraySotringAlgo.JPG?raw=true)
