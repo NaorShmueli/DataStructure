@@ -2,7 +2,7 @@
 
 ## Description
 
- A Graph is a data structure that contains a finite number of vertices (or nodes) and a finite set of edges connecting the vertices. In the above diagram, circles represent vertices, and lines represent edges connecting those vertices. We will find the usage of graphs in almost all of the software products we use in the real world. Some implementations of graphs include social networks, routing algorithms, mapping applications, recommendation engines, etc.
+ A Graph is a data structure that contains a finite number of vertices (or nodes) and a finite set of edges connecting the vertices. We will find the usage of graphs in almost all of the software products we use in the real world. Some implementations of graphs include social networks, routing algorithms, mapping applications, recommendation engines, etc.
 
 ## Graph Types
  * Undirected: In an Undirected graph, edges are bidirectional. For example, you can reach vertex 1 from vertex 2, and also you can reach vertex 2 from vertex 1.
