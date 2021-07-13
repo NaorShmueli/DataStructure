@@ -20,7 +20,7 @@
 ![Representation](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/representation.JPG?raw=true)
 
 ## Operations O
- As we discussed in the beginning of the article, run times of a graph will depend on how the data is represented: adjacency list vs adjacency matrix.
+ Run times of a graph will depend on how the data is represented: adjacency list vs adjacency matrix.
 
 ![O](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/bigo.JPG?raw=true)
 
