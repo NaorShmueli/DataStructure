@@ -10,7 +10,7 @@ Each project contain readme file with explanations.
   * [Stack](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/Stack)
   * [Queue](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/Queue)
   * [BinaryTree](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/BinaryTree)
-  * [UndirectedGraph](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/Graphs)
+  * [Undirected Graph](https://github.com/NaorShmueli/DataStructure/tree/master/DataStructures/Graphs)
 
 ## Common Operations O
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/CommonOperations.JPG?raw=true)
