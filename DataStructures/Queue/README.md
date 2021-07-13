@@ -26,3 +26,7 @@ What it means is that, we will be able to access the first element in the collec
 
 ## Illustration 
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/Queue.JPG?raw=true)
+
+## Authors
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)

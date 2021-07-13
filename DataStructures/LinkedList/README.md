@@ -20,3 +20,7 @@ It’s basically a collection of nodes which are connected to its next node by a
 
 ## Illustration  
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/LinkedList.JPG?raw=true)
+
+## Authors
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)

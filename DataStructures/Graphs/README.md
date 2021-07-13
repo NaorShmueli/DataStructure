@@ -24,3 +24,7 @@
 
 ![O](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/bigo.JPG?raw=true)
 
+## Authors
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
+

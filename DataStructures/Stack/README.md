@@ -26,3 +26,7 @@ What it means is, the last or recent element that we add to stack is the first e
  
 ## Illustration 
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/Stack.JPG?raw=true)
+
+## Authors
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
