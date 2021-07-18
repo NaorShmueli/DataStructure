@@ -17,3 +17,7 @@ Each project contain readme file with explanations.
 
 ## Array Sorting Algorithms O
 ![Structure](https://github.com/NaorShmueli/DataStructure/blob/master/DataStructures/Images/ArraySotringAlgo.JPG?raw=true)
+
+## Authors
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
